@@ -15,6 +15,9 @@ input {
   padding: 20px;
 }
 
+.highlight {
+  background: #ffc600;
+}
 .search-form {
   max-width: 400px;
   margin: 50px auto;
@@ -69,6 +72,6 @@ span.population {
   font-size: 15px;
 }
 
-.hl {
+hl {
   background: #ffc600;
 }
